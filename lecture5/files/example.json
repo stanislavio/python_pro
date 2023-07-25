@@ -1,0 +1,8 @@
+{
+  "name": "Stas",
+  "Surname": "Dumi",
+  "identifier": "123",
+  "additional": [
+    {"key":  "value"}
+  ]
+}
